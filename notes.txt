@@ -1,0 +1,7 @@
+tflearn
+  max_pool1d is to compress the image into something more useable.
+  for the solar data we will be using conv_1d for it.
+  read in the one d array and use the lines to predict what comes next.
+
+  search edm audio calssification on github an dyou can get his code. 
+  sarba.jrt is his name on it
